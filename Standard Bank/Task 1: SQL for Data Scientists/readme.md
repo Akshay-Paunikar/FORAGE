@@ -1,4 +1,4 @@
-**Here is the background information on your task**
+**Here is the background information on your task**<br>
 Standard Bank is embracing the digital transformation wave and intends to use new and exciting technologies to give their customers a complete set 
 of services from the convenience of their mobile devices.
 As Africa’s biggest lender by assets, the bank aims to improve the current process in which potential borrowers apply for a home loan. 
@@ -28,7 +28,7 @@ You will also get to experience how data is identified, collect, stored, and han
 
 In this task, you will be required to complete multiple-choice questions. This multiple choice consists of daily tasks data scientists complete using SQL.
 
-**Here is your task**
+**Here is your task**<br>
 The beginning of any data science project involves understanding the business and the data. Business understanding is focused on setting the 
 business objectives, project assessment, defining the success criteria and project planning. Understanding the business is essential to any 
 data science project. After this, the next phase is Data Understanding. To understand the data, we have to identify, collect, analyze and 
