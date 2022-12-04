@@ -22,7 +22,7 @@ any new features you want to create in order to make your model even better. You
 When your data is ready for modelling, you should train a machine learning model to be able to predict the target outcome, which is a customer making 
 a booking. For this task, you should use an algorithm that easily allows you to output information about how each variable within the model contributes 
 to its predictive power. For example, a RandomForest is very good for this purpose.
-<br>
+
 **Evaluate model and present findings**<br>
 After training your model, you should evaluate how well it performed by conducting cross-validation and outputting appropriate evaluation metrics. 
 Furthermore, you should create a visualisation to interpret how each variable contributed to the model. Finally, you should summarise your findings 
