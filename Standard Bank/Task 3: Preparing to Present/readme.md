@@ -1,4 +1,4 @@
-**Here is the background information on your task**
+**Here is the background information on your task**<br>
 As a data scientist, you will be required to present your findings. This tests just how well you understood the business problem 
 and business objectives. The manager of the home loans department, like many other project sponsors you might have to present to, 
 has a limited technical background. Her interest is business-oriented, so you should discuss your results in terms of the business 
@@ -6,7 +6,7 @@ problem with minimal technical details.
 
 In this task, you will prepare to present not only to the manager of the home loans department but also to your manager/team.
 
-**Here is your task**
+**Here is your task**<br>
 To cover the above considerations, we recommend you structure the presentation in a similar manner to the template provided in Resources. 
 
 Other considerations include the following:
